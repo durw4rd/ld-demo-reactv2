@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fdb6dfc.css",
-    "main.js": "/static/js/main.858063d1.js",
-    "static/js/787.ed05df0a.chunk.js": "/static/js/787.ed05df0a.chunk.js",
-    "static/media/Söhne-Kräftig.otf": "/static/media/Söhne-Kräftig.bae8a998fde5a072740d.otf",
-    "static/media/Audimat3000-Regulier.otf": "/static/media/Audimat3000-Regulier.b16d6b1fdb87e9e980a6.otf",
-    "static/media/ld-white-wide.png": "/static/media/ld-white-wide.c7ccd94b41333f877744.png",
-    "index.html": "/index.html",
-    "main.3fdb6dfc.css.map": "/static/css/main.3fdb6dfc.css.map",
-    "main.858063d1.js.map": "/static/js/main.858063d1.js.map",
-    "787.ed05df0a.chunk.js.map": "/static/js/787.ed05df0a.chunk.js.map"
+    "main.css": "/ld-demo-reactv2/static/css/main.c136e003.css",
+    "main.js": "/ld-demo-reactv2/static/js/main.7103afb2.js",
+    "static/js/787.ed05df0a.chunk.js": "/ld-demo-reactv2/static/js/787.ed05df0a.chunk.js",
+    "static/media/Söhne-Kräftig.otf": "/ld-demo-reactv2/static/media/Söhne-Kräftig.bae8a998fde5a072740d.otf",
+    "static/media/Audimat3000-Regulier.otf": "/ld-demo-reactv2/static/media/Audimat3000-Regulier.b16d6b1fdb87e9e980a6.otf",
+    "static/media/ld-white-wide.png": "/ld-demo-reactv2/static/media/ld-white-wide.c7ccd94b41333f877744.png",
+    "index.html": "/ld-demo-reactv2/index.html",
+    "main.c136e003.css.map": "/ld-demo-reactv2/static/css/main.c136e003.css.map",
+    "main.7103afb2.js.map": "/ld-demo-reactv2/static/js/main.7103afb2.js.map",
+    "787.ed05df0a.chunk.js.map": "/ld-demo-reactv2/static/js/787.ed05df0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fdb6dfc.css",
-    "static/js/main.858063d1.js"
+    "static/css/main.c136e003.css",
+    "static/js/main.7103afb2.js"
   ]
 }
